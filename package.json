@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "email-templates": "^4.0.1",
     "env2": "^2.2.0",
-    "nodemailer": "^4.6.5"
+    "nodemailer": "^4.6.5",
+    "pug": "^2.0.3"
   }
 }
